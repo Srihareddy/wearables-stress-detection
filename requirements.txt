@@ -1,0 +1,9 @@
+Create a new file called **`requirements.txt`** and paste **only this**:
+
+```txt
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyter
