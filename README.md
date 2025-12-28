@@ -62,14 +62,6 @@ Stress assessment is traditionally subjective and self-reported. This project ad
 
 ---
 
-## Project Structure
-Wearable-Stress-Detection/
-├── data/
-├── notebooks/
-├── src/
-
-
----
 
 ## How to Run
 ```bash
